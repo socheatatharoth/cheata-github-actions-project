@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha"
-
   },
   "repository": {
     "type": "git",
@@ -17,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/socheatatharoth/cheata-github-actions-project/issues"
   },
-  "homepage": "https://github.com/socheatatharoth/cheata-github-actions-project#readme"
+  "homepage": "https://github.com/socheatatharoth/cheata-github-actions-project#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.7.1"
+  }
 }
