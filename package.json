@@ -1,0 +1,21 @@
+{
+  "name": "cheata-github-actions-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socheatatharoth/cheata-github-actions-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/socheatatharoth/cheata-github-actions-project/issues"
+  },
+  "homepage": "https://github.com/socheatatharoth/cheata-github-actions-project#readme"
+}
